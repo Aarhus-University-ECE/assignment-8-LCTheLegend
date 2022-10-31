@@ -1,0 +1,10 @@
+a)
+It takes 10 operations for this program to calculate the factorial of 5.
+
+b)
+For any positive integer n, to calculate its factorial you will need (n * 2) operations
+
+
+Link to Github
+
+https://github.com/Aarhus-University-ECE/assignment-8-LCTheLegend.git
