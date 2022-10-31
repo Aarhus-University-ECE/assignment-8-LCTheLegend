@@ -8,19 +8,19 @@ extern "C"{
 // File for sandboxing and trying out code
 int main(int argc, char **argv)
 {
-    /*
+    
     linked_list *ptr;
     ptr = createLinkedList();
 
     for(int i = 0 ; i < 31 ; i++)
     {
-        node_t *val = createNode(rand() % 11);
+        node_t *val = createNode(rand() % 51);
         insertFront(val, ptr);
     }
     printLL(ptr);
     sort(ptr);
     printLL(ptr);
-    Above code was test for the insertion sort*/ 
+    //Above code was test for the insertion sort
     
     queue q;
     init_queue(&q);
